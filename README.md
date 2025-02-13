@@ -1,2 +1,4 @@
-# QA-Manual-Pruebas
-Primer proyecto de QA Testing manual. Incluye casos de prueba de la tienda Falabella.
+## 📊 Cómo visualizar  
+- **`QA_Falabella_Pruebas.xlsx`**: Casos de prueba en formato Excel.  
+- **`QA Testing Falabella.txt`**: Casos de prueba en formato texto.  
+
