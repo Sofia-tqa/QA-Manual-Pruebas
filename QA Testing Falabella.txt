@@ -1,0 +1,16 @@
+# QA Testing Falabella  
+**Descripción:**  
+Este repositorio contiene el primer ejercicio de QA Testing manual realizado en la tienda Falabella.  
+
+ID | Caso de Prueba | Precondición | Pasos | Resultado Esperado | Resultado Real | Estado
+001 | Verificar botón 'Comprar' | Estar en la página de un producto | Abrir producto, agregar al carrito, ir al carro | Producto se agrega al carrito | Producto se agregó | Éxito
+002 | Validar búsqueda de productos | Página principal | Buscar 'zapatos' | Resultados de zapatos | Resultados correctos | Éxito
+003 | Probar registro de usuario | Página de registro | Completar formulario, registrar | 'Registro exitoso' | Registro exitoso | Éxito
+
+
+**Casos de Prueba Incluidos:**  
+1️⃣ Verificación del botón 'Comprar'  
+2️⃣ Validación de búsqueda de productos  
+3️⃣ Prueba del registro de usuario  
+
+**Resultado:** Todas las pruebas pasaron con éxito. ✅  
